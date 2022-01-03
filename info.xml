@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="agbucontributiontab" type="module">
+  <file>agbucontributiontab</file>
+  <name>AGBU Contribution tab</name>
+  <description>Customizes the columns on a contact's contribution tab.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Jon Goldberg</author>
+    <email>jon@megaphonetech.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2019-07-25</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>5.15</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Agbucontributiontab</namespace>
+  </civix>
+</extension>
